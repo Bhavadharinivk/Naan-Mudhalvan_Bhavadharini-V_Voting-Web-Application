@@ -89,3 +89,12 @@ Django poll app is a full featured polling app. You have to register in this app
 <div align="center">
     <h3>========Thank You !!!=========</h3>
 </div>
+
+
+IMPLEMENTED BY: BHAVADHARINI V
+
+NAME:Bhavadharini V
+
+NM ID:922221104008
+
+COLLEGE NAME:THENI KAMMAVAR SAANGAM COLLEGE OF TECHNOLOGY
